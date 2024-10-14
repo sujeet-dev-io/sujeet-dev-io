@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sujeetprajapati021?tab=repositories](https://github.com/sujeetprajapati021?tab=repositories)
 
-- 📝 I regularly write articles on [https://spring.io/](https://spring.io/)
-
 - 💬 Ask me about **Building real-time data pipelines with Kafka for event-driven architecture.**
 
 - 📫 How to reach me **sujeetprajap02@gmail.com**
