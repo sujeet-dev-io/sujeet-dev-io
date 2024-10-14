@@ -1,4 +1,4 @@
-![logo](https://github.com/sujeetprajapati021/Sujeet_Prajapati/blob/main/java.jpg)
+![logo](https://github.com/sujeetprajapati021/sujeetprajapati021/blob/main/Without%20Pic%20Panner.png)
 <h1 align="center">Hi 👋, I'm Sujeet Prajapati</h1>
 <h3 align="center">Experienced Java backend developer with expertise in Spring Boot, microservices, and scalable solutions.</h3>
 
