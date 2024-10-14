@@ -1,5 +1,5 @@
 ![logo](https://github.com/sujeetprajapati021/sujeetprajapati021/blob/main/Without%20Pic%20Panner.png)
-<h1 align="center">Hi 👋, I'm Sujeet Prajapati</h1>
+<h1 align="center">Hi, I'm Sujeet Prajapati</h1>
 <h3 align="center">Experienced Java backend developer with expertise in Spring Boot, microservices, and scalable solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/afb942ef83a13e4496edb231d70a0634dfe43d6019e491f5a1a36c7edae44d8e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966">
