@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **sujeetprajap02@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/670a4bc04a7da76024b93908](https://app.luminpdf.com/viewer/670a4bc04a7da76024b93908)
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/670a4bc04a7da76024b93908](https://app.luminpdf.com/viewer/670e585dd05b8d728cafb8be)
 
 - ⚡ Fun fact **I enjoy debugging so much that I call it 'digital detective work.**
 
