@@ -1,4 +1,4 @@
-![logo](https://github.com/sujeetprajapati021/sujeetprajapati021/blob/main/Without%20Pic%20Panner.png)
+![logo](https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Without%20Pic%20Panner.png)
 <h1 align="center">Hi, I'm Sujeet Prajapati</h1>
 <h3 align="center">Experienced Java backend developer with expertise in Spring Boot, microservices, and scalable solutions.</h3>
 
@@ -12,7 +12,7 @@
     border-radius:40%;
     display: block;
   ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetprajapati021&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetprajapati021" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetprajapati021&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet-dev-i0" /> </p>
 
 - 🔭Developed using Spring Boot and AWS with a focus on performance and scalability. [Student_Service](https://github.com/sujeet-dev-io?tab=repositories)
 
