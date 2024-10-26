@@ -14,13 +14,13 @@
   ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetprajapati021&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetprajapati021" /> </p>
 
-- 🔭Developed using Spring Boot and AWS with a focus on performance and scalability. [Student_ManageMent](https://github.com/sujeetprajapati021?tab=repositories)
+- 🔭Developed using Spring Boot and AWS with a focus on performance and scalability. [Student_Service](https://github.com/sujeet-dev-io?tab=repositories)
 
 - 🌱 I’m currently learning **Kafka, AWS S3, and advanced data validation methodologies to ensure backend scalability and robustness.**
 
 - 👯 Open to collaborating on projects involving Spring Boot, AWS, microservices, and NoSQL database management. **Reward Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujeetprajapati021?tab=repositories](https://github.com/sujeetprajapati021?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sujeetprajapati021?tab=repositories](https://github.com/sujeet-dev-io?tab=repositories)
 
 - 💬 Ask me about **Building real-time data pipelines with Kafka for event-driven architecture.**
 
