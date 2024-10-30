@@ -20,7 +20,7 @@
 
 - 👯 Open to collaborating on projects involving Spring Boot, AWS, microservices, and NoSQL database management. **Reward Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujeetprajapati021?tab=repositories](https://github.com/sujeet-dev-io?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sujeet-dev-io?tab=repositories](https://github.com/sujeet-dev-io?tab=repositories)
 
 - 💬 Ask me about **Building real-time data pipelines with Kafka for event-driven architecture.**
 
