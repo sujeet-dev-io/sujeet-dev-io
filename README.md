@@ -12,7 +12,7 @@
     border-radius:40%;
     display: block;
   ">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetprajapati021&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet-dev-i0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet-dev-io&label=Profile%20views&color=0e75b6&style=flat" alt="sujeet-dev-i0" /> </p>
 
 - 🔭Developed using Spring Boot and AWS with a focus on performance and scalability. [Student_Service](https://github.com/sujeet-dev-io?tab=repositories)
 
@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeetprajapati021&show_icons=true&locale=en&layout=compact" alt="sujeetprajapati021" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeetprajapati021&" alt="sujeetprajapati021" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet-dev-io&" alt="sujeet-dev-io" /></p>
