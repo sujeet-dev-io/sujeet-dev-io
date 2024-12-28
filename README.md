@@ -5,7 +5,7 @@
 <img align="right"
         alt="coding"
         width="400"
-        src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
+        src="https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/1905.i126.005_programmer_work-removebg-preview.png"
         style="
     /*background-color: black;*/
     padding: 10px;
