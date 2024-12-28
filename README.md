@@ -1,5 +1,7 @@
 ![logo](https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Without%20Pic%20Panner.png)
-<h3 align="center">Experienced Java backend developer with expertise in Spring Boot, microservices, and scalable solutions.</h3>
+<h3 align="center">Hi, I'm Sujeet Prajapati</h3>
+<hr/>
+<h4 align="center">Experienced Java backend developer with expertise in Spring Boot, microservices, and scalable solutions.</h4>
 
 <img align="right"
         alt="coding"
