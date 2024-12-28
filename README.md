@@ -1,5 +1,5 @@
 ![logo](https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Without%20Pic%20Panner.png)
-<h1 align="center">Hi, I'm Sujeet Prajapati</h1>
+<h1 align="center">SUJEET PRAJAPATI</h1>
 <h3 align="center">Experienced Java backend developer with expertise in Spring Boot, microservices, and scalable solutions.</h3>
 
 <img align="right"
@@ -26,9 +26,7 @@
 
 - 📫 How to reach me **sujeetprajap02@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/670a4bc04a7da76024b93908](https://app.luminpdf.com/viewer/6765ae9b4b5b27fae2697fd5)
-
-- ⚡ Fun fact **I enjoy debugging so much that I call it 'digital detective work.**
+- 📄 Know about my experiences [https://app.luminpdf.com/viewer/6765ae9b4b5b27fae2697fd5](https://app.luminpdf.com/viewer/6765ae9b4b5b27fae2697fd5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
