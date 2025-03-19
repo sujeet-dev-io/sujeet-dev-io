@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujeet-dev-io&show_icons=true&locale=en&layout=compact" alt="sujeet-dev-io" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet-dev-io&" alt="sujeet-dev-io" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet-dev-io" alt="sujeet-dev-io" /></p>
