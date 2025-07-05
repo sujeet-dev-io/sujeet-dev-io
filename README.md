@@ -66,21 +66,6 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger)
 
----
-
-### 🤝 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/sujeet-prajapati" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://instagram.com/shaimy557" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
-  </a>
-</p>
-
---- 
-
 ### 📊 GitHub Stats
 
 <p align="center">
