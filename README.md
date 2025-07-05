@@ -2,8 +2,8 @@
     <img src="https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Sujeet%20Banner.jpg" alt="banner" />
 </p>
 
-<h2 align="center">Hi, I'm Sujeet Prajapati</h2>
-<h4 align="center">Java Backend Developer | Spring Boot | Microservices | Scalable Systems</h4>
+<h2 align="center">Hi, I'm Sujeet Prajapati Java Backend Developer | Spring Boot | Microservices | Scalable Systems</h2>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sujeet-dev-io&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
