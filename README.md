@@ -2,7 +2,7 @@
     <img src="https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Sujeet%20Banner.jpg" alt="banner" />
 </p>
 
-<h2 align="center">Hi, I'm Sujeet Prajapati Java Backend Developer | Spring Boot | Microservices | Scalable Systems</h2>
+<h4 align="center">Hi, I'm Sujeet Prajapati Java Backend Developer | Spring Boot | Microservices | Scalable Systems</h4>
 
 
 <p align="center">
