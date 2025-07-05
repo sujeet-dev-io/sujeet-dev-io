@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=sujeet-dev-io&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-## 🚀 About Me
+## 👨‍💻 Career Snapshot
 
 I'm a passionate **Backend Developer** with expertise in building robust, scalable, and high-performance applications. My journey in software development has equipped me with a strong foundation in system design, problem-solving, and delivering efficient solutions.
 
@@ -92,7 +92,7 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 ## 📫 Let's Connect
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/your-linkedin" target="_blank" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/sujeet-prajapati-145b2624a/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/sujeet-dev-io" target="_blank" style="text-decoration: none;">
@@ -101,7 +101,7 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
     <a href="mailto:sujeetprajap02@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://your-portfolio-link.com" target="_blank" style="text-decoration: none;">
+    <a href="https://sujeetportfolios.netlify.app/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://app.luminpdf.com/viewer/681a4358083ad7d7c6b37c22" target="_blank" style="text-decoration: none;">
