@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/sujeetbanner.png](https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.pdf)" alt="banner" />
+    <img src="[https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.pdf]" alt="banner" />
 </p>
 
 <h2 align="center">Hi, I'm Sujeet Prajapati</h2>
