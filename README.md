@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 About Me
+# 👨‍💻 Career Snapshot
 
 I'm a passionate **Backend Developer** with expertise in building robust, scalable, and high-performance applications. My journey in software development has equipped me with a strong foundation in system design, problem-solving, and delivering efficient solutions.
 
@@ -23,19 +23,6 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 - 🔄 **Agile Practitioner**: Experienced in **Agile/Scrum** methodologies for efficient project delivery
 - 📧 Reach out: **sujeetprajap02@gmail.com**
 - 📄 [View my resume »](https://app.luminpdf.com/viewer/681a4358083ad7d7c6b37c22)
-
----
-
-### 🤝 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/sujeet-prajapati" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
-  </a>
-  <a href="https://instagram.com/shaimy557" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
-  </a>
-</p>
 
 ---
 
@@ -80,6 +67,19 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger)
 
 ---
+
+### 🤝 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/sujeet-prajapati" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://instagram.com/shaimy557" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+  </a>
+</p>
+
+--- 
 
 ### 📊 GitHub Stats
 
