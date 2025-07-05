@@ -13,13 +13,29 @@
 
 ### 🚀 About Me
 
-- 🔧 Building scalable REST APIs using **Spring Boot**, **MySQL**, **Kafka**, and **Redis**.
-- ☁️ Experienced with **AWS (EC2, S3)** and Docker-based deployments.
-- 🌱 Currently learning: **Kafka**, **Cloud services**, and **data-driven architecture**.
-- 👨‍💻 My work: [GitHub Repositories »](https://github.com/sujeet-dev-io?tab=repositories)
-- 💬 Ask me about:
-  - Event-driven systems with Kafka
-  - Microservice design & CI/CD pipelines
+I'm a passionate **Backend Developer** with expertise in building robust, scalable, and high-performance applications. My journey in software development has equipped me with a strong foundation in system design, problem-solving, and delivering efficient solutions.
+
+- 🔧 **Technical Expertise**: Specialized in **Java, Spring Boot, Microservices, and Cloud-Native** application development
+- 🏗️ **Architecture**: Experience in designing and implementing **distributed systems** and **event-driven architectures**
+- 🚀 **DevOps Enthusiast**: Implementing CI/CD pipelines and containerized deployments using **Docker & Kubernetes**
+- 📊 **Database Proficient**: Worked with **SQL & NoSQL** databases, optimizing queries and ensuring data integrity
+- 🌐 **Full-Stack Exposure**: Comfortable working across the stack with experience in **React.js and modern frontend technologies**
+- 🔄 **Agile Practitioner**: Experienced in **Agile/Scrum** methodologies for efficient project delivery
+
+#### 🎯 Currently:
+- Building **highly available microservices** with Spring Boot and Kafka
+- Exploring **cloud-native** technologies and **serverless** architectures
+- Contributing to **open-source** projects and technical communities
+
+#### 📚 Education & Certifications:
+- B.Tech in Computer Science
+- [List any relevant certifications here]
+
+#### 💡 Technical Interests:
+- System Design & Architecture
+- Performance Optimization
+- Cloud Computing & DevOps
+- API Design & Development
 - 📧 Reach out: **sujeetprajap02@gmail.com**
 - 📄 [View my resume »](https://app.luminpdf.com/viewer/681a4358083ad7d7c6b37c22)
 
