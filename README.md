@@ -22,7 +22,7 @@
   - Event-driven systems with Kafka
   - Microservice design & CI/CD pipelines
 - 📧 Reach out: **sujeetprajap02@gmail.com**
-- 📄 [View my resume »](https://app.luminpdf.com/viewer/681a4358083ad7d7c6b37c22)
+- 📄 [View my resume »](https://app.luminpdf.com/viewer/686951d8fa86e7d2c5ee5e47)
 
 ---
 
