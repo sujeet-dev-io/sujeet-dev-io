@@ -9,15 +9,14 @@
     <img src="https://komarev.com/ghpvc/?username=sujeet-dev-io&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
-## 🚀 About Me
+## 👨‍💻 Career Snapshot
 
 I'm a passionate **Backend Developer** with expertise in building robust, scalable, and high-performance applications. My journey in software development has equipped me with a strong foundation in system design, problem-solving, and delivering efficient solutions.
 
 - 🔧 **Technical Expertise**: Specialized in **Java, Spring Boot, Microservices, and Cloud-Native** application development
 - 🏗️ **Architecture**: Experience in designing and implementing **distributed systems** and **event-driven architectures**
 - 🚀 **DevOps Enthusiast**: Implementing CI/CD pipelines and containerized deployments using **Docker & Kubernetes**
-- 📧 **Contact**: sujeetprajap02@gmail.com
-- 📄 [View my resume](https://app.luminpdf.com/viewer/681a4358083ad7d7c6b37c22)
+
 
 ## 🛠️ Tech Stack
 
