@@ -87,13 +87,16 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
             </td>
         </tr>
     </table> -->
-     <a href="https://github.com/sujeet-dev-io">
-    <img src="https://github-readme-stats.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical&hide=contribs&custom_title=Sujeet%20Prajapati's%20GitHub%20Stats&include_all_commits=true&count_private=true&hide_rank=false&line_height=24&show=prs,issues&number_format=long" alt="Sujeet's GitHub Stats" height="180"/>
-  </a>
-
-  <a href="https://github.com/sujeet-dev-io">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical&hide=javascript,html,css,dockerfile,freemarker" alt="Top Languages" height="180"/>
-  </a>
+    <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical&hide=javascript,html,css,dockerfile,freemarker" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   
 </div>
 
