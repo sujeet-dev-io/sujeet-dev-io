@@ -105,7 +105,7 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
     <a href="https://sujeetportfolios.netlify.app/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://app.luminpdf.com/viewer/681a4358083ad7d7c6b37c22" target="_blank" style="text-decoration: none;">
+    <a href="https://app.luminpdf.com/viewer/6889b01112cbb20d96733d60" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
     </a>
 </div>
