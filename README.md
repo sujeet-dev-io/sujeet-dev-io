@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/Sujeet%20Banner.jpg" alt="banner" />
+    <img src="https://github.com/sujeet-dev-io/sujeet-dev-io/blob/main/SUJEET%20PRAJAPATI.png?raw=true" alt="banner" />
 </p>
 
 <h2 align="center">Hi, I'm Sujeet Prajapati</h2>
