@@ -76,19 +76,22 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 
 ## 📊 GitHub Stats
 
- <div align="center">
-    <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical" alt="GitHub Stats" />
-            </td>
-            <td>
-                      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical" alt="Top Languages" />
-              </td>
-        </tr>
-    </table>
-    
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical" />
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical" />
+</td>
+</tr>
+</table>
+
 </div>
+
 
 ## 📫 Let's Connect
 
