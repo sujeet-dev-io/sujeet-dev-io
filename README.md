@@ -77,9 +77,10 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical" />
+  <img src="https://your-project-name.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical" />
+  <img src="https://your-project-name.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical" />
 </p>
+
 
 
 
