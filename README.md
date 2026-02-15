@@ -95,24 +95,29 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujeet-dev-io&theme=react-dark" height="190" width ="2000" />
 </p>
  
+## 🤝 Connect With Me
 
+<p align="center">
 
-## 📫 Let's Connect
+<a href="https://www.linkedin.com/in/sujeet-prajapati-145b2624a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/sujeet-prajapati-145b2624a/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/sujeet-dev-io" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:sujeetprajap02@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://sujeetportfolios.netlify.app/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://app.luminpdf.com/viewer/6889b01112cbb20d96733d60" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-    </a>
-</div>
+<a href="https://github.com/sujeet-dev-io" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:sujeetprajap02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://iamsujeet.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/shaimy557" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
