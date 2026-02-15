@@ -75,12 +75,7 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 </div>
 
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical" alt="Top Languages" /> </td> </tr> </table> </div>
 
 ## 📫 Let's Connect
 
