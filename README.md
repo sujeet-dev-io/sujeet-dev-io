@@ -119,5 +119,10 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="https://wa.me/918303223251" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
 </p>
+
 
