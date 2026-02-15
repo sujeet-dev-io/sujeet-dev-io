@@ -74,8 +74,28 @@ I'm a passionate **Backend Developer** with expertise in building robust, scalab
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=sujeet-dev-io&show_icons=true&theme=radical" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-dev-io&layout=compact&theme=radical" alt="Top Languages" /> </td> </tr> </table> </div>
+## 🔥 GitHub Stats
+
+<table align="center">
+<tr>
+<td><img src="https://streak-stats.demolab.com?user=sujeet-dev-io&theme=radical" height="180"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sujeet-dev-io&theme=radical" height="180"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujeet-dev-io&theme=radical" height="180"/></td>
+<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujeet-dev-io&theme=radical" height="180"/></td>
+</tr>
+</table>
+
+
+
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujeet-dev-io&theme=react-dark" height="190" width ="2000" />
+</p>
+ 
+
 
 ## 📫 Let's Connect
 
